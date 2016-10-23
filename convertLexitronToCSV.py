@@ -10,7 +10,6 @@
 '''
 
 from bs4 import BeautifulSoup
-import json
 
 def getXMLElements(xml):
     # create soup object
